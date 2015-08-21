@@ -32,3 +32,11 @@ h5 {
 a {
   color: #536dfe;
 }
+
+.btn {
+  background-color: #827717;
+}
+
+.btn:hover {
+  background-color: #afb42b;
+}
