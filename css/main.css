@@ -8,8 +8,13 @@ main {
   flex: 1 0 auto;
 }
 
-html {
+h1, h2, h3, h4, h5, h6 {
   font-family: 'Raleway', Arial, sans-serif;
+}
+
+p {
+  font-family: 'Roboto', Arial, sans-serif;
+  font-size: 1.2em;
 }
 
 .noise {
@@ -39,3 +44,4 @@ a {
 .brand-logo {
   margin-left: 15px;
 }
+
