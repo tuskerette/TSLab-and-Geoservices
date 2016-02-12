@@ -5,8 +5,6 @@ TS Lab and Geoservices
 
 ### Developed using MaterializeCSS.
 
-[live demo](http://tuskerette.github.io/TSLab-and-Geoservices/)
-
 [official page](http://www.tslab.eu/)
 
 
